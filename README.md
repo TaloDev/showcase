@@ -12,4 +12,4 @@ Want to learn more about Talo? Check out the [backend](https://github.com/TaloDe
 
 - [M3TRON0ME](https://lanemcmartin.itch.io/m3tron0me) by lanemcmartin ([screenshot](https://img.itch.zone/aW1hZ2UvMzE1MDM4Mi8xODgxODQ5My5wbmc=/original/kFFd18.png)) - Defend humanity against insectoid horrors with the M3TRON0ME, a powerful weapon of unknown origin, in this stylish arcade shooter. Used Talo to implement a global leaderboard!
 
-- [Swerve City](https://sleepystudios.itch.io/swerve-city) by Sleepy Studios ([screenshot](https://img.itch.zone/aW1nLzg1OTQ5ODQucG5n/original/h9R2aJ.png)) - Outrun the ever-increasing police presence for as long as possible. Using Talo for event analytics, leaderboards and stats.
+- [Swerve City](https://sleepystudios.itch.io/swerve-city) by Sleepy Studios ([screenshot](https://img.itch.zone/aW1nLzg1OTQ5ODQucG5n/original/h9R2aJ.png)) - A PSX-style driving game where players try to outrun an ever-increasing police presence for as long as possible. Using Talo for event analytics, leaderboards and stats.
