@@ -16,4 +16,6 @@ Want to learn more about Talo? Check out the [backend](https://github.com/TaloDe
 
 - [Relicbound](https://nordsoft.itch.io/relicbound) by nordsoft ([screenshot](https://img.itch.zone/aW1hZ2UvMzI5OTc3My8yMDI1MTI0Mi5wbmc=/original/eiXLh%2B.png)) - Turn-based roguelite with procedurally generated dungeons, monsters and loot. Relicbound uses Talo's event analytics.
 
+- [Soulblaze](https://store.steampowered.com/app/3505230/Soulblaze/) by Sword & Quill ([screenshot](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3505230/ss_c91a487aa299c3275eeedde4600ca0718a89e328.1920x1080.jpg?t=1744184504)) - A creature collecting and dice rolling roguelite using Talo for event analytics.
+
 - [Swerve City](https://sleepystudios.itch.io/swerve-city) by Sleepy Studios ([screenshot](https://img.itch.zone/aW1nLzg1OTQ5ODQucG5n/original/h9R2aJ.png)) - A PSX-style driving game where players try to outrun an ever-increasing police presence for as long as possible. Using Talo for event analytics, leaderboards and stats.
