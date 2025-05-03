@@ -20,4 +20,4 @@ Want to learn more about Talo? Check out the [backend](https://github.com/TaloDe
 
 - [Swerve City](https://sleepystudios.itch.io/swerve-city) by Sleepy Studios ([screenshot](https://img.itch.zone/aW1nLzg1OTQ5ODQucG5n/original/h9R2aJ.png)) - A PSX-style driving game where players try to outrun an ever-increasing police presence for as long as possible. Using Talo for event analytics, leaderboards and stats.
 
-- [Mind The Scale](https://lm3-games.itch.io/mind-the-scale) by LM3 Games ([screenshot](https://img.itch.zone/aW1hZ2UvMzQ2MDc3OS8yMDk4NzcwNy5wbmc=/original/O2%2FLSc.png)) - A casual yet challenging game that tests your reflex, how much can you score? Using Talo for leaderboard.
+- [Mind The Scale](https://lm3-games.itch.io/mind-the-scale) by LM3 Games ([screenshot](https://img.itch.zone/aW1hZ2UvMzQ2MDc3OS8yMDk4NzcwNy5wbmc=/original/O2%2FLSc.png)) - A casual yet challenging game that tests your reflexes - how high can you score? Uses Talo for leaderboards.
