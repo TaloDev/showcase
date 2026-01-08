@@ -18,4 +18,4 @@ Want to learn more about Talo? Check out the [backend](https://github.com/TaloDe
 
 - [Space Blends](https://apps.apple.com/us/app/space-blends/id6749399295) by Strangely Edible Games ([screenshot](https://raw.githubusercontent.com/TaloDev/showcase/refs/heads/main/images/spaceblends.png)) - You and your friend are now proud employees at Space Blends! One of you gets to blend mysterious ingredients into smoothies, while the other must communicate instructions from Space Blends’ top secret recipe book. Uses Talo's event analytics, game stats, and player feedback.
 
-- [Gigablastz!!! AD 2048](https://atanii.itch.io/gigablastz-ad-2048) by atanii ([screenshot](https://img.itch.zone/aW1hZ2UvMzAzNDgzMC8xODI2NjUxMC5wbmc=/original/1t2Zm0.png)) - Retro arena-shooter with pixel graphics and simple, endless gameplay. Features leaderboards powered by Talo.
+- [Gigablastz!!! AD 2048](https://atanii.itch.io/gigablastz-ad-2048) by atanii ([screenshot](https://img.itch.zone/aW1hZ2UvMzAzNDgzMC8xODI2NjUxMS5wbmc=/original/sTgxMh.png)) - Retro arena-shooter with pixel graphics and simple, endless gameplay. Features leaderboards powered by Talo.
